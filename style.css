@@ -1,0 +1,9 @@
+body {
+    background-color: lightblue; 
+    min-height: 100vh;
+    display: grid;
+   }
+
+header, main, aside, footer {
+    background: white;
+}
