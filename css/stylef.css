@@ -4,10 +4,8 @@ body {
     font-style: normal;
     font-size: 2em;
     color: antiquewhite;
-}    
-#grad {
     background-image: linear-gradient(red, yellow);
-  }
+}    
 .container {
     display: flex;
     flex-direction: column;
