@@ -51,10 +51,12 @@ body {
 @keyframes moving {
   0%{left: 0px;}
   0%{top: 0px;}  
-  25%{left: 700px;} 
-  25%{top: 0px;} 
-  50%{left: 700px;} 
-  50%{top: 400px;} 
-  100%{left: 0px;} 
-  100%{top: 400px;} 
+  20%{left: 700px;} 
+  20%{top: 0px;} 
+  40%{left: 700px;} 
+  40%{top: 400px;} 
+  80%{left: 0px;} 
+  80%{top: 400px;} 
+  100%{left: 0px;}
+  100%{top: 0px;} 
 }   
