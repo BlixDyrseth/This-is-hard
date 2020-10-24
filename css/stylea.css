@@ -39,6 +39,7 @@ body {
   .kant {
       animation-name: moving;
       animation-duration: 7s;
+      animation-iteration-count: infinite;
       height: 70px;
       width: 70px;
       position: relative;
