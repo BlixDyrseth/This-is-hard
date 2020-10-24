@@ -1,3 +1,6 @@
+body {
+    background-image: url(images/throw_inktober_dag9.jpg);
+}  
 .ball {
     animation-name: bounce;
     animation-duration: 5s;
