@@ -38,7 +38,7 @@ body {
 
   .kant {
       animation-name: moving;
-      animation-duration: 7s;
+      animation-duration: 12s;
       animation-iteration-count: infinite;
       transition-property: all;
       transition-duration: 2s;
