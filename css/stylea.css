@@ -15,3 +15,16 @@
     50%{top: 0px;}
     100%{top: 300px;}
   }
+
+  .balll {
+    transition-property: background;
+    transition-duration: 2s;
+    height: 50px;
+    width: 50px;
+    background: red;
+    border-radius: 50%;
+  }
+  
+  .balll:hover {
+    background: blue;
+  }
