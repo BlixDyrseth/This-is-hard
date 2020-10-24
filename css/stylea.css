@@ -23,6 +23,7 @@
     width: 50px;
     background: red;
     border-radius: 50%;
+    float: right;
   }
   
   .balll:hover {
