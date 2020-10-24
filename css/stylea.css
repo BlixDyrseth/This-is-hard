@@ -44,11 +44,12 @@ body {
       position: relative;
       background: blueviolet;
       left: 0px;
+      top: 0px;
 
 }
 @keyframes moving {
   0%{left: 0px;} 
   25%{left: 700px;} 
-  50%{bottom: 400px;} 
-  100%{right: 0px;} 
+  50%{top: 400px;} 
+  100%{left: -700px;} 
 }   
