@@ -60,3 +60,9 @@ body {
   100%{left: 0px;}
   100%{top: 0px;} 
 }   
+
+.kant:hover {
+    background: blue;
+    width: 200px;
+    height: 200px;
+  }
