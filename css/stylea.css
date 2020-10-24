@@ -18,7 +18,7 @@
 
   .balll {
     transition-property: background,width,height,border-radius;
-    transition-delay: 0s,2s,4s;
+    transition-delay: 0s,2s,4s,0s;
     transition-duration: 2s;
     height: 50px;
     width: 50px;
