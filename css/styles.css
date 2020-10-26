@@ -19,7 +19,15 @@ main {grid-area: main;}
 aside {grid-area: aside;}
 footer {grid-area: footer;}
 
+.form {
+display: block;
+text-align: center;
+} 
+
 form {
 display: inline-block;
-} 
+margin-left: auto;
+margin-right: auto;
+text-align: left;
+    } 
 
