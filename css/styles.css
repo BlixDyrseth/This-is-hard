@@ -20,7 +20,6 @@ aside {grid-area: aside;}
 footer {grid-area: footer;}
 
 form {
-max-width: 400px;
-max-height: 550px;
+display: inline-block;
 } 
 
